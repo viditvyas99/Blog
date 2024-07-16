@@ -1,0 +1,9 @@
+ for(let i = 0;i<tag.length;i++)
+  {
+  let v=i*10
+  console.log(i)
+  if(v>100){
+
+    break
+  }
+}
